@@ -29,12 +29,12 @@ body {
     width: 500px;
     margin: 0 auto 0;
 }
-.task {
+.section-task__new-task {
     width: 56%;
     display: inline-block;
     flex-grow: 1;
 }
-.add-task-content {
+.section-task__content {
     display: flex;
 }
 ul {
